@@ -26,8 +26,8 @@ Mawaddah Indonesia: Mawaddah is a unique marriage platform inspired by Islamic t
 - 📫 How to Reach Me:
 - Email: adhika725@gmail.com
 <!-- LinkedIn: [your LinkedIn profile] -->
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,git,js,ts,ubuntu,postgres)](https://skillicons.dev)
+Technologies and tools that i used to help with my projects:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,git,js,ts,postgres,tailwind,nuxtjs,prisma)](https://skillicons.dev)
 
 <!--
 **mikaazui/mikaazui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
