@@ -13,7 +13,8 @@ Tools & Platforms: Git, GitHub, Docker, Notion, Visual Studio Code
 Learning: Backend development with Node.js and Typescript Based.
 
 🚀 Projects:
-I'm actively working on both personal and collaborative projects that help me expand my skill set. Check out some of my repositories to see what I've been working on.
+I'm actively working on both personal and collaborative projects that help me expand my skill set. Check out some of my repositories to see what I've been working on,
+this is a brief description from one of my project i've been working on lately:
 
 Mawaddah Indonesia: Mawaddah is a unique marriage platform inspired by Islamic teachings and rooted in the principles of the Sunnah. The app aims to foster meaningful connections between individuals seeking marriage in a way that adheres to the values of faith, respect, and integrity.
 <!--[Another Project]: Another project highlight.-->
