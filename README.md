@@ -11,6 +11,7 @@ Frameworks: Node.js, Express, NestJS, VueJS, NuxtJS
 Databases: MySQL, PostgreSQL
 Tools & Platforms: Git, GitHub, Docker, Notion, Visual Studio Code
 Learning: Backend development with Node.js and Typescript Based.
+
 🚀 Projects:
 I'm actively working on both personal and collaborative projects that help me expand my skill set. Check out some of my repositories to see what I've been working on.
 
