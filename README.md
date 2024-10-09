@@ -25,6 +25,7 @@ Mawaddah Indonesia: Mawaddah is a unique marriage platform inspired by Islamic t
 - 💬 Ask me about tech, coding challenges, or anything you're curious about!
 - 📫 How to Reach Me:
 - Email: adhika725@gmail.com
+- Discord: @daydreamernala || 757042193952145519 
 <!-- LinkedIn: [your LinkedIn profile] -->
 Technologies and tools that i used to help with my projects:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,git,js,ts,postgres,tailwind,nuxtjs,prisma)](https://skillicons.dev)
