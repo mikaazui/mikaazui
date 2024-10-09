@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello, I'm [Your Name] 👋
+Hello, I'm Mikaazui 👋
 🌱 Junior Developer | Lifelong Learner
 
 Welcome to my GitHub! I’m passionate about exploring new technologies and constantly improving my skills as a developer. While I’m still at the early stages of my journey, I’m excited to share my growth and contributions here.
