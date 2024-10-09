@@ -28,7 +28,7 @@ Mawaddah Indonesia: Mawaddah is a unique marriage platform inspired by Islamic t
 - Discord: daydreamernala || 757042193952145519 
 <!-- LinkedIn: [your LinkedIn profile] -->
 Technologies and tools that i used to help with my projects:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,git,js,ts,postgres,tailwind,nuxtjs,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,docker,git,postgres,tailwind,nuxtjs,prisma)](https://skillicons.dev)
 
 <!--
 **mikaazui/mikaazui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
