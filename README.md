@@ -7,10 +7,10 @@ Welcome to my GitHub! I’m passionate about exploring new technologies and cons
 
 🛠️ Tech Stack:
 Languages: JavaScript, TypeScript, HTML, CSS
-Frameworks: Node.js, Express, NestJS, VueJS, NuxtJS
+Frameworks: Node.js, Express, NestJS, VueJS, NuxtJS, ExpressJS,Tailwind CSS, Daisy UI
 Databases: MySQL, PostgreSQL
-Tools & Platforms: Git, GitHub, Docker, Notion, Visual Studio Code
-Learning: Backend development with Node.js and Typescript Based.
+Tools & Platforms: Git, GitHub, Docker, Notion, Visual Studio Code, Prisma
+Learning: Fullstack development with NuxtJS and Typescript Based.
 
 🚀 Projects:
 I'm actively working on both personal and collaborative projects that help me expand my skill set. Check out some of my repositories to see what I've been working on,
@@ -19,16 +19,16 @@ this is a brief description from one of my project i've been working on lately:
 Mawaddah Indonesia: Mawaddah is a unique marriage platform inspired by Islamic teachings and rooted in the principles of the Sunnah. The app aims to foster meaningful connections between individuals seeking marriage in a way that adheres to the values of faith, respect, and integrity.
 <!--[Another Project]: Another project highlight.-->
 - 🌐 About Me:
-- 🔭 Currently working on improving my backend development skills.
+- 🔭 Currently focusing on improving my backend development skills.
 - 🌱 Continuously learning and growing my knowledge in software development.
 - 👯 Open to collaborating on interesting projects and learning opportunities.
 - 💬 Ask me about tech, coding challenges, or anything you're curious about!
 - 📫 How to Reach Me:
 - Email: adhika725@gmail.com
-- Discord: daydreamernala || 757042193952145519 
+- Discord: dextermyopia || 757042193952145519 
 <!-- LinkedIn: [your LinkedIn profile] -->
 Technologies and tools that i used to help with my projects:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,docker,git,postgres,tailwind,nuxtjs,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,docker,git,postgres,tailwind,nuxtjs,prisma,express,figma,github,postman,react,notion)](https://skillicons.dev)
 
 <!--
 **mikaazui/mikaazui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
